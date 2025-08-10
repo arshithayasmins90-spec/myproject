@@ -1,2 +1,1 @@
-HEAD This is a different line from master branch
-This is a conflicting line from conflict-branch conflict-branch
+This is a different line from master branch
