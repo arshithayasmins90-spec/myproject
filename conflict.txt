@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master branch new edit
+=======
+Conflict branch different edit
+>>>>>>> 990a0d4 (Different edit in conflict-branch)
