@@ -1,1 +1,1 @@
-This line is from conflict-branch
+This is a different line from master branch
